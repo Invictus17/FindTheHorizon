@@ -1,7 +1,7 @@
 # FindTheHorizon
-A Computer Vision service that finds the horizon in a given image using the Baye's nets and the Viterbi algorithm.
+A Computer Vision utility that finds the horizon in a given image using Baye's nets and the Viterbi algorithm. For every image you can see the resulting horizon detected by the utility using - Baye's nets, Viterbi algorithm without feedback and Viterbi algorithm with human feedback i.e information of a pixel that is surely on the horizon. 
 
-Following are the results for each given image and two new images taken from a personal collection:    
+Following are the results for a few images:    
 A) mountain.jpg  
 1. Bayes Net    
 ![alt text](https://github.com/Invictus17/FindTheHorizon/blob/master/Results/1_bn.jpg)  
